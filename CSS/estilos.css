@@ -28,6 +28,11 @@ body{
     
 }
 
+#footer{
+    text-align: center;
+    background-color: lightcoral;
+}
+
 #container{
     background-color: aliceblue;
     width: 70%;
